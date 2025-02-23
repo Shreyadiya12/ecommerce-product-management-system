@@ -24,8 +24,9 @@ The project follows the **MVC (Model-View-Controller) pattern** using Django's b
 - **SQLite** (Default Django database)
 - **Git & GitHub** (Version Control)
 - **Virtual Environment** (For package management)
-
-## Conclusion
+ 
+---
+## **Conclusion**
  - This project demonstrates a fully functional E-Commerce Product Management System using Django. The implementation includes:
  -  ✅ One-to-Many Relationship between products and categories.
 - ✅ Admin Panel for easy product management.
